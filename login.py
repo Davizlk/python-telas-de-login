@@ -3,7 +3,7 @@ import sqlite3
 from tkinter import *
 from tkinter import messagebox 
 
-credenciais = ['Davi','dadatata13']
+
 def chama_segunda_tela():
     nome_usuario = primeira_tela.lineEdit_3.text()
     senha = primeira_tela.lineEdit_2.text()
