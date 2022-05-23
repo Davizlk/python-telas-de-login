@@ -62,3 +62,6 @@ tela_cadastro.pushButton.clicked.connect(cadastrar)
 
 primeira_tela.show()
 app.exec()
+
+
+#leia a descrição!
